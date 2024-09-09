@@ -1,5 +1,3 @@
-#### EXPLORATORY-DATA-ANALYSIS-ON-YOUTUBE-DATA
-
 # YouTube Dislike Analysis
 
 # Project Overview
